@@ -23,10 +23,10 @@ The Folk Computing project is an Android Based application with a chat interface
 ## Disclaimer
 The Folk Computing App provides health suggestions but does not replace professional medical advice. Consult a healthcare professional for personalized guidance. Accuracy may vary, and the App is still in development. Use at your own discretion. 
 
-For more information, refer to the [Terms and Conditions](T%26C.md) and [Privacy Policy](PP.md).
+For more information, refer to the [Terms and Conditions](TC.md) and [Privacy Policy](PP.md).
 
 ## Downloading the App
-By downloading the Folk Computing App, you agree to the [Terms and Conditions](T%26C.md) and [Privacy Policy](PP.md). You are acknowledging that the App is still in development and may not be accurate. You are also acknowledging that the App is not a replacement for professional medical advice and that you should consult a healthcare professional for personalized guidance. The application only works as a suggestion tool and does not provide any medical advice.
+By downloading the Folk Computing App, you agree to the [Terms and Conditions](TC.md) and [Privacy Policy](PP.md). You are acknowledging that the App is still in development and may not be accurate. You are also acknowledging that the App is not a replacement for professional medical advice and that you should consult a healthcare professional for personalized guidance. The application only works as a suggestion tool and does not provide any medical advice.
 
 ## Installation
 For installation, fill out the [Google Form](https://forms.gle/6vZXP3bYSEDc8vbw8) and you will be sent a link to download the app.
