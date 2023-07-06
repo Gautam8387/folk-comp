@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+# Allow different markdowns to be used as secondary Pages
+markdown: kramdown
+# Exclude from processing.
