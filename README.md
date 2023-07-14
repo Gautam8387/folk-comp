@@ -115,4 +115,4 @@ This section contains some examples of the app. We are also working on ```Tamil`
 
 ## Acknowledgements
 We would like to thank the following people for their voluntary voice demonstration:
-- For Bengali Demonstration: [Niall Pandey](niall.pandey_ug24@ashoka.edu.in), Ashoka University
+- For Bengali Demonstration: [Niall Pandey](mailto:niall.pandey_ug24@ashoka.edu.in), Ashoka University
