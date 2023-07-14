@@ -9,6 +9,8 @@
 - [Terms and Conditions](TC.md)
 - [Privacy Policy](PP.md)
 - [Feedback](#feedback)
+- [Examples](#examples)
+- [Acknowledgements](#acknowledgements)
 
 
 ## Problem Statement
@@ -98,3 +100,19 @@ To re-listen to the response, long press on the message and click on the ```Spea
 We are still in development and would love to hear your feedback. The alpha version for testing purposes and only supports ```Hindi``` language. We are working on adding more languages and features.
 
 Please fill out the [Google Form](https://forms.gle/jJbTTDPdZwTyUsar9) to provide feedback.
+
+## Examples
+This section contains some examples of the app. We are also working on ```Tamil``` and ```Benagli``` languages. They are still in ```beta``` and may have issues with speech recognition and text-to-speech.
+<p align=center>
+    <video src="./install-steps/tamil.mp4" width="150" height="300" controls preload></video>
+    <video src="./install-steps/bengali.mp4" width="150" height="300" controls preload></video>
+</p>
+
+1. [Bengali](https://drive.google.com/drive/folders/1oXP2F_3OGHA-CrZHAWLey4haELNa7HzC?usp=sharing)
+
+2. [Tamil](https://drive.google.com/drive/folders/17xBy9x1cctpOkHnSkv8CPrzJU1szXFq_?usp=sharing)
+
+
+## Acknowledgements
+We would like to thank the following people for their voluntary voice demonstration:
+- For Bengali Demonstration: [Niall Pandey](niall.pandey_ug24@ashoka.edu.in), Ashoka University
