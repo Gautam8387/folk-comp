@@ -1,15 +1,19 @@
 # Folk Computing v1.0 (alpha)
+The Folk Computing project is the part of Ashoka University. For Suggestive Health Care.
+
+The Folk Computing App provides health suggestions but does not replace professional medical advice. 
 <!-- Table of Content -->
 - [Problem Statement](#problem-statement)
 - [Vision](#vision)
 - [Solution](#solution)
 - [Disclaimer](#disclaimer)
+- [Examples](#examples)
 - [Downloading the App](#downloading-the-app)
 - [Installation](#installation)
 - [Terms and Conditions](TC.md)
 - [Privacy Policy](PP.md)
 - [Feedback](#feedback)
-- [Examples](#examples)
+- [Team](#team)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -17,15 +21,30 @@
 There is a lack of a culturally sensitive and multimedia-dominant accessible computer application to bridge the technology gap between affluent and impoverished populations, particularly those residing in rural areas with limited literacy.
 
 ## Vision
-Our vision is to enhance the accessibility of health services by leveraging technology and AI. To achieve this, we aim to broaden the reach of our resources by incorporating multiple languages. Additionally, we prioritize the integration of speech-to-text technologies as a key aspect of future applications, allowing individuals with limited literacy and disabilities to access and benefit from the same health-focused application as others
+Our vision is to enhance the accessibility of health related information by leveraging technology and AI. To achieve this, we aim to broaden the reach of our resources by incorporating multiple languages. Additionally, we prioritize the integration of speech-to-text technologies as a key aspect of future applications, allowing individuals with limited literacy and disabilities to access and benefit from the same health-focused application as others
 
 ## Solution
-The Folk Computing project is an Android Based application with a chat interface powered by large language models, enabling users to access the health model in multiple languages, allowing speech input and output. The current ```alpha``` version specifically uses GPT AI and only support ```Hindi``` language. 
+The Folk Computing project is an Android Based application with a chat interface powered by large language models, enabling users to access the health model in multiple languages, allowing speech input and output. The current ```alpha``` version specifically uses GPT AIP and only support ```Hindi, Bengali, Tamil``` and ```Telugu``` languages.  
 
 ## Disclaimer
 The Folk Computing App provides health suggestions but does not replace professional medical advice. Consult a healthcare professional for personalized guidance. Accuracy may vary, and the App is still in development. Use at your own discretion. 
 
 For more information, refer to the [Terms and Conditions](TC.md) and [Privacy Policy](PP.md).
+
+## Examples
+This section contains some examples of the app. We are working on ```Hindi, Benagli``` and ```Tamil``` languages. They are still in development and may have issues with speech recognition and text-to-speech.
+<p align=center>
+    <video src="./install-steps/hindi.mp4" width="150" height="300" controls preload></video>
+    <video src="./install-steps/bengali.mp4" width="150" height="300" controls preload></video>
+    <video src="./install-steps/tamil.mp4" width="150" height="300" controls preload></video>
+</p>
+
+You can refer to the transcripts of the above videos here:
+1. [Hindi](https://docs.google.com/document/d/1GKqIFwsDlV2Tk8fgrIbOQMLLxOrj2vK2cHUbWrJ8FNU/edit?usp=sharing) (Transcripts are in English)
+
+1. [Bengali](https://docs.google.com/document/d/12zBLwCv7cisuATt-PGYyDRyy2_YB0tkQ61A9eIIN2OQ/edit?usp=sharing) (Transcripts are in English)
+
+2. [Tamil](https://docs.google.com/document/d/1rLWuI3EtTJyh2xniK7kOViswe_DQ6u3U9vYu-99NTU0/edit?usp=sharing) (Transcripts are in English)
 
 ## Downloading the App
 By downloading the Folk Computing App, you agree to the [Terms and Conditions](TC.md) and [Privacy Policy](PP.md). You are acknowledging that the App is still in development and may not be accurate. You are also acknowledging that the App is not a replacement for professional medical advice and that you should consult a healthcare professional for personalized guidance. The application only works as a suggestion tool and does not provide any medical advice.
@@ -101,17 +120,10 @@ We are still in development and would love to hear your feedback. The alpha vers
 
 Please fill out the [Google Form](https://forms.gle/jJbTTDPdZwTyUsar9) to provide feedback.
 
-## Examples
-This section contains some examples of the app. We are also working on ```Tamil``` and ```Benagli``` languages. They are still in ```beta``` and may have issues with speech recognition and text-to-speech.
-<p align=center>
-    <video src="./install-steps/tamil.mp4" width="150" height="300" controls preload></video>
-    <video src="./install-steps/bengali.mp4" width="150" height="300" controls preload></video>
-</p>
-
-1. [Bengali](https://drive.google.com/drive/folders/1oXP2F_3OGHA-CrZHAWLey4haELNa7HzC?usp=sharing)
-
-2. [Tamil](https://drive.google.com/drive/folders/17xBy9x1cctpOkHnSkv8CPrzJU1szXFq_?usp=sharing)
-
+## Team
+The Folk Computing project was developed by the following people and is the part of Ashoka University:
+- [Gautam Ahuja](https://www.linkedin.com/in/gautam8387/)
+- [Aaryan Nagpal](https://www.linkedin.com/in/aaryannagpal)
 
 ## Acknowledgements
 We would like to thank the following people for their voluntary voice demonstration:
