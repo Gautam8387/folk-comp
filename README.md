@@ -3,24 +3,51 @@ The Folk Computing project is the part of Ashoka University. For Suggestive Heal
 
 The Folk Computing App provides health suggestions but does not replace professional medical advice.
 
+The workflow of the application is as follows:
+<!-- include image -->
+<p align="center">
+  <img src="./install-steps/architecture.png" width="800">
+</p>
+
+## Demos
+This section contains some demos of the app. We are working on ```Hindi, Benagli``` and ```Tamil``` languages. They are still in development and may have issues with speech recognition and text-to-speech.
+<p align=center>
+    <video src="./install-steps/hindi.mp4" width="150" height="300" controls preload></video>
+    <video src="./install-steps/bengali.mp4" width="150" height="300" controls preload></video>
+    <video src="./install-steps/tamil.mp4" width="150" height="300" controls preload></video>
+</p>
+
+
+## Team
+The Folk Computing project was developed by the following people and is the part of Ashoka University:
+- [Dr. Rintu Kutum](https://www.ashoka.edu.in/profile/rintu-kutum/), Department of Computer Science, Ashoka University
+- [Dr. Anurag Agrawal](https://www.ashoka.edu.in/profile/anurag-agrawal/), Dean, BioSciences and Health Research, Trivedi School of Biosciences, Ashoka University
+- [Gautam Ahuja](https://www.linkedin.com/in/gautam8387/), Department of Computer Science, Ashoka University
+- [Aaryan Nagpal](https://www.linkedin.com/in/aaryannagpal), Department of Computer Science, Ashoka University
+- [Ragul N](mailto:ragul.n_asp24@ashoka.edu.in), Department of Computer Science, Ashoka University
+
+
 ## Mentors
 The project was guided and mentored by the following people:
-- [Dr. Ramesh Jain](https://ics.uci.edu/people/ramesh-jain/), Distinguished Professor Emeritus, Department of Computer Science, University of California, Irvine
+
+**Internal**:
 - [Dr. Partha Pratim Das](https://www.ashoka.edu.in/profile/partha-pratim-das/), Professor of Computer Science, Ashoka University
-- [Dr. Rintu Kutum](https://www.ashoka.edu.in/profile/rintu-kutum/), Faculty Fellow, Department of Computer Science, Ashoka University
-- [Dr. Anurag Agrawal](https://www.ashoka.edu.in/profile/anurag-agrawal/), Dean, BioSciences and Health Research, Trivedi School of Biosciences, Ashoka University
+
+**External**:
+- [Dr. Ramesh Jain](https://ics.uci.edu/people/ramesh-jain/), Distinguished Professor Emeritus, Department of Computer Science, University of California, Irvine
 
 
 ## Table of Content
 <!-- Table of Content -->
 - [Folk Computing v1.0 (alpha)](#folk-computing-v10-alpha)
+  - [Demos](#demos)
+  - [Team](#team)
   - [Mentors](#mentors)
   - [Table of Content](#table-of-content)
   - [Problem Statement](#problem-statement)
   - [Vision](#vision)
   - [Solution](#solution)
   - [Disclaimer](#disclaimer)
-  - [Examples](#examples)
   - [Downloading the App](#downloading-the-app)
   - [Installation](#installation)
       - [Disclaimer Screen](#disclaimer-screen)
@@ -29,7 +56,6 @@ The project was guided and mentored by the following people:
       - [Existing Users](#existing-users)
       - [Chat Screen](#chat-screen)
   - [Feedback](#feedback)
-  - [Team](#team)
   - [Acknowledgements](#acknowledgements)
 
 
@@ -50,18 +76,12 @@ The application is built using the following technologies:
 - [Google Firebase](https://firebase.google.com/) for user authentication and database.
 - [OpenAI](https://openai.com/) for language models.
 
-The workflow of the application is as follows:
-<!-- include image -->
-<p align="center">
-  <img src="./install-steps/architecture.png" width="800">
-</p>
-
 ## Disclaimer
 The Folk Computing App provides health suggestions but does not replace professional medical advice. Consult a healthcare professional for personalized guidance. Accuracy may vary, and the App is still in development. Use at your own discretion. 
 
 For more information, refer to the [Terms and Conditions](TC.md) and [Privacy Policy](PP.md).
 
-## Examples
+<!-- ## Examples
 This section contains some examples of the app. We are working on ```Hindi, Benagli``` and ```Tamil``` languages. They are still in development and may have issues with speech recognition and text-to-speech.
 <p align=center>
     <video src="./install-steps/hindi.mp4" width="150" height="300" controls preload></video>
@@ -74,7 +94,7 @@ You can refer to the transcripts of the above videos here:
 
 1. [Bengali](https://docs.google.com/document/d/12zBLwCv7cisuATt-PGYyDRyy2_YB0tkQ61A9eIIN2OQ/edit?usp=sharing) (Transcripts are in English)
 
-2. [Tamil](https://docs.google.com/document/d/1rLWuI3EtTJyh2xniK7kOViswe_DQ6u3U9vYu-99NTU0/edit?usp=sharing) (Transcripts are in English)
+2. [Tamil](https://docs.google.com/document/d/1rLWuI3EtTJyh2xniK7kOViswe_DQ6u3U9vYu-99NTU0/edit?usp=sharing) (Transcripts are in English) -->
 
 ## Downloading the App
 By downloading the Folk Computing App, you agree to the [Terms and Conditions](TC.md) and [Privacy Policy](PP.md). You are acknowledging that the App is still in development and may not be accurate. You are also acknowledging that the App is not a replacement for professional medical advice and that you should consult a healthcare professional for personalized guidance. The application only works as a suggestion tool and does not provide any medical advice.
@@ -149,11 +169,6 @@ To re-listen to the response, long press on the message and click on the ```Spea
 We are still in development and would love to hear your feedback. The alpha version for testing purposes and only supports ```Hindi``` language. We are working on adding more languages and features.
 
 Please fill out the [Google Form](https://forms.gle/jJbTTDPdZwTyUsar9) to provide feedback.
-
-## Team
-The Folk Computing project was developed by the following people and is the part of Ashoka University:
-- [Gautam Ahuja](https://www.linkedin.com/in/gautam8387/)
-- [Aaryan Nagpal](https://www.linkedin.com/in/aaryannagpal)
 
 ## Acknowledgements
 We would like to thank the following people for their voluntary voice demonstration:
