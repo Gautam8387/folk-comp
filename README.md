@@ -1,20 +1,36 @@
 # Folk Computing v1.0 (alpha)
 The Folk Computing project is the part of Ashoka University. For Suggestive Health Care.
 
-The Folk Computing App provides health suggestions but does not replace professional medical advice. 
+The Folk Computing App provides health suggestions but does not replace professional medical advice.
+
+## Mentors
+The project was guided and mentored by the following people:
+- [Dr. Ramesh Jain](https://ics.uci.edu/people/ramesh-jain/), Distinguished Professor Emeritus, Department of Computer Science, University of California, Irvine
+- [Dr. Partha Pratim Das](https://www.ashoka.edu.in/profile/partha-pratim-das/), Professor of Computer Science, Ashoka University
+- [Dr. Rintu Kutum](https://www.ashoka.edu.in/profile/rintu-kutum/), Faculty Fellow, Department of Computer Science, Ashoka University
+- [Dr. Anurag Agrawal](https://www.ashoka.edu.in/profile/anurag-agrawal/), Dean, BioSciences and Health Research, Trivedi School of Biosciences, Ashoka University
+
+
+## Table of Content
 <!-- Table of Content -->
-- [Problem Statement](#problem-statement)
-- [Vision](#vision)
-- [Solution](#solution)
-- [Disclaimer](#disclaimer)
-- [Examples](#examples)
-- [Downloading the App](#downloading-the-app)
-- [Installation](#installation)
-- [Terms and Conditions](TC.md)
-- [Privacy Policy](PP.md)
-- [Feedback](#feedback)
-- [Team](#team)
-- [Acknowledgements](#acknowledgements)
+- [Folk Computing v1.0 (alpha)](#folk-computing-v10-alpha)
+  - [Mentors](#mentors)
+  - [Table of Content](#table-of-content)
+  - [Problem Statement](#problem-statement)
+  - [Vision](#vision)
+  - [Solution](#solution)
+  - [Disclaimer](#disclaimer)
+  - [Examples](#examples)
+  - [Downloading the App](#downloading-the-app)
+  - [Installation](#installation)
+      - [Disclaimer Screen](#disclaimer-screen)
+      - [Login Screen](#login-screen)
+      - [New Users](#new-users)
+      - [Existing Users](#existing-users)
+      - [Chat Screen](#chat-screen)
+  - [Feedback](#feedback)
+  - [Team](#team)
+  - [Acknowledgements](#acknowledgements)
 
 
 ## Problem Statement
@@ -24,7 +40,21 @@ There is a lack of a culturally sensitive and multimedia-dominant accessible com
 Our vision is to enhance the accessibility of health related information by leveraging technology and AI. To achieve this, we aim to broaden the reach of our resources by incorporating multiple languages. Additionally, we prioritize the integration of speech-to-text technologies as a key aspect of future applications, allowing individuals with limited literacy and disabilities to access and benefit from the same health-focused application as others
 
 ## Solution
-The Folk Computing project is an Android Based application with a chat interface powered by large language models, enabling users to access the health model in multiple languages, allowing speech input and output. The current ```alpha``` version specifically uses GPT AIP and only support ```Hindi, Bengali, Tamil``` and ```Telugu``` languages.  
+The Folk Computing project is an Android Based application with a chat interface powered by large language models, enabling users to access the health model in multiple languages, allowing speech input and output. The current ```alpha``` version specifically uses GPT AIP and only support ```Hindi, Bengali, Tamil``` and ```Telugu``` languages.
+
+
+The application is built using the following technologies:
+- [Android Studio](https://developer.android.com/studio)
+- [Google Text-to-Speech](https://cloud.google.com/text-to-speech)
+- [Google Speech-to-Text](https://cloud.google.com/speech-to-text)
+- [Google Firebase](https://firebase.google.com/) for user authentication and database.
+- [OpenAI](https://openai.com/) for language models.
+
+The workflow of the application is as follows:
+<!-- include image -->
+<p align="center">
+  <img src="./install-steps/architecture.png" width="800">
+</p>
 
 ## Disclaimer
 The Folk Computing App provides health suggestions but does not replace professional medical advice. Consult a healthcare professional for personalized guidance. Accuracy may vary, and the App is still in development. Use at your own discretion. 
